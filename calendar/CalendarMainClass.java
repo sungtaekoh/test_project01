@@ -5,12 +5,12 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 public class CalendarMainClass {
-	HashMap map = new HashMap();
-	CalendarMethod cal = new CalendarMethod();
 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-			
+		HashMap map = new HashMap();
+		CalendarMethod cal = new CalendarMethod();
+		
 			
 			
 			boolean bool1 = true;
